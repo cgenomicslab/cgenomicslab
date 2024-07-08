@@ -1,7 +1,7 @@
 ---
 name: Alexandros Pittis
 image: images/photo.jpg
-role: Group Leader
+role: pi
 affiliation: Institute of Molecular Biology and Biotechnology (IMBB-FORTH)
 aliases:
   - A.A. Pittis
