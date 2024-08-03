@@ -1,1 +1,1 @@
-Sitemap: https://cgenomicslab.github.io/cgenomicslab/sitemap.xml
+Sitemap: http://cgenomicslab.org/sitemap.xml
